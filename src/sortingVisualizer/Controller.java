@@ -1,7 +1,7 @@
 /*
- *       Sorting Visualizer by Gagan Bhatia
+ *       Sorting Visualizer by Soham Sadhukhan
  *
- *       Github profile: GaganBhatia19
+ *       Github profile: soham023
  * */
 
 package sortingVisualizer;
