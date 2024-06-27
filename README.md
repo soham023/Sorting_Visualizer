@@ -5,11 +5,10 @@
 ### I was very much fascinated to visualize the working of sorting algorithms so I built this application to visualize.
 ### This application consist of Sorting Algorithms:
 1. Bubble Sort
-3. Insertion Sort    
-4. Selection Sort
-5. Shell Sort
-6. Quick Sort
-7. Merge Sort
+2. Insertion Sort    
+3. Selection Sort
+4. Quick Sort
+5. Merge Sort
 
 ### Download JAR (Java Archive): https://drive.google.com/file/d/1kcMkyYWIr4vZkWHkcbnjw1LF38MM8yq_/view?usp=sharing
 ### Download Executable (exe): https://drive.google.com/file/d/1HVIZ4tvKwQtq3SisLIB5vxDD6EGlfxad/view?usp=sharing 
